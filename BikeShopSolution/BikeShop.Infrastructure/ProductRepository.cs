@@ -1,5 +1,7 @@
 ﻿using BikeShop.Application;
 using BikeShop.Domain;
+using System;
+using System.Collections.Generic;
 
 namespace BikeShop.Infrastructure
 {
@@ -13,6 +15,11 @@ namespace BikeShop.Infrastructure
                 new Product { Id = 2, Name = "Yol Bisikleti", Category = "Bisiklet", Price = 7000, Stock = 5 },
                 new Product { Id = 3, Name = "Bisiklet Zinciri", Category = "Parça", Price = 150, Stock = 50 }
             };
+        }
+
+        public void AddProduct(Product product)
+        {
+            Console.WriteLine($"Ürün eklendi: {product.Name}");
         }
     }
 }
