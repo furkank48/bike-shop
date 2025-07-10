@@ -1,0 +1,16 @@
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Application\bin\Debug\net8.0\BikeShop.Application.deps.json
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Application\bin\Debug\net8.0\BikeShop.Application.dll
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Application\bin\Debug\net8.0\BikeShop.Application.pdb
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Application\bin\Debug\net8.0\BikeShop.Domain.dll
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Application\bin\Debug\net8.0\BikeShop.Domain.pdb
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Application\obj\Debug\net8.0\BikeShop.Application.csproj.AssemblyReference.cache
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Application\obj\Debug\net8.0\BikeShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Application\obj\Debug\net8.0\BikeShop.Application.AssemblyInfoInputs.cache
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Application\obj\Debug\net8.0\BikeShop.Application.AssemblyInfo.cs
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Application\obj\Debug\net8.0\BikeShop.Application.csproj.CoreCompileInputs.cache
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Application\obj\Debug\net8.0\BikeShop.Application.sourcelink.json
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Application\obj\Debug\net8.0\BikeShop.E4CA1111.Up2Date
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Application\obj\Debug\net8.0\BikeShop.Application.dll
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Application\obj\Debug\net8.0\refint\BikeShop.Application.dll
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Application\obj\Debug\net8.0\BikeShop.Application.pdb
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Application\obj\Debug\net8.0\ref\BikeShop.Application.dll

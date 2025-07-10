@@ -1,0 +1,12 @@
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Domain\bin\Debug\net8.0\BikeShop.Domain.deps.json
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Domain\bin\Debug\net8.0\BikeShop.Domain.dll
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Domain\bin\Debug\net8.0\BikeShop.Domain.pdb
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Domain\obj\Debug\net8.0\BikeShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Domain\obj\Debug\net8.0\BikeShop.Domain.AssemblyInfoInputs.cache
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Domain\obj\Debug\net8.0\BikeShop.Domain.AssemblyInfo.cs
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Domain\obj\Debug\net8.0\BikeShop.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Domain\obj\Debug\net8.0\BikeShop.Domain.sourcelink.json
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Domain\obj\Debug\net8.0\BikeShop.Domain.dll
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Domain\obj\Debug\net8.0\refint\BikeShop.Domain.dll
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Domain\obj\Debug\net8.0\BikeShop.Domain.pdb
+C:\Users\Data.Bilgisayar\bike-shop\BikeShopSolution\BikeShop.Domain\obj\Debug\net8.0\ref\BikeShop.Domain.dll
