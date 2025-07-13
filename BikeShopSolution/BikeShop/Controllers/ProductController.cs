@@ -17,5 +17,12 @@ public class ProductController : ControllerBase
     {
         return _productRepository.GetAllProducts();
     }
+    [HttpPost]
+    public IActionResult AddProduct([FromBody] Product product)
+    {
+        _productRepository.AddProduct(product);
+        return Ok(new { message = "Ürün başarıyla eklendi.", data = product });
+    }
+
 }
 
