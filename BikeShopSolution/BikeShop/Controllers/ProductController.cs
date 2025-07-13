@@ -23,6 +23,15 @@ public class ProductController : ControllerBase
         _productRepository.AddProduct(product);
         return Ok(new { message = "Ürün başarıyla eklendi.", data = product });
     }
+    [HttpDelete("{id}")]
+    public IActionResult DeleteProduct(int id)
+    {
+        var result = _productRepository.DeleteProduct(id);
+        if (result)
+            return Ok(new { message = "Ürün başarıyla silindi." });
+        else
+            return NotFound(new { message = "Ürün bulunamadı." });
+    }
 
 }
 

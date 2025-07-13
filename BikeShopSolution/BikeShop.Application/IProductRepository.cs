@@ -7,6 +7,8 @@ namespace BikeShop.Application
     {
         IEnumerable<Product> GetAllProducts();
         void AddProduct(Product product);
+        bool DeleteProduct(int id);
+
 
     }
 }

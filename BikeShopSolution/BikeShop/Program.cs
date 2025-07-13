@@ -4,7 +4,7 @@ using BikeShop.Infrastructure;
 var builder = WebApplication.CreateBuilder(args);
 
 // DI (Dependency Injection) – Repository’i baðlama
-builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddSingleton<IProductRepository, ProductRepository>();
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
@@ -20,3 +20,4 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
