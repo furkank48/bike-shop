@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Data.Bilgisayar\\bike-shop\\BikeShopSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA1FA0C0-BF0F-445F-91C1-5A690907080A}|BikeShop\\BikeShop.API.csproj|c:\\users\\data.bilgisayar\\bike-shop\\bikeshopsolution\\bikeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA1FA0C0-BF0F-445F-91C1-5A690907080A}|BikeShop\\BikeShop.API.csproj|solutionrelative:bikeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0635A49C-3071-4B5D-9B74-2F499B9240FE}|BikeShop.Infrastructure\\BikeShop.Infrastructure.csproj|c:\\users\\data.bilgisayar\\bike-shop\\bikeshopsolution\\bikeshop.infrastructure\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0635A49C-3071-4B5D-9B74-2F499B9240FE}|BikeShop.Infrastructure\\BikeShop.Infrastructure.csproj|solutionrelative:bikeshop.infrastructure\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CED9E5FA-451E-4FCC-82EC-95CE54E43360}|BikeShop.Application\\BikeShop.Application.csproj|c:\\users\\data.bilgisayar\\bike-shop\\bikeshopsolution\\bikeshop.application\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CED9E5FA-451E-4FCC-82EC-95CE54E43360}|BikeShop.Application\\BikeShop.Application.csproj|solutionrelative:bikeshop.application\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1FA0C0-BF0F-445F-91C1-5A690907080A}|BikeShop\\BikeShop.API.csproj|c:\\users\\data.bilgisayar\\bike-shop\\bikeshopsolution\\bikeshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA1FA0C0-BF0F-445F-91C1-5A690907080A}|BikeShop\\BikeShop.API.csproj|solutionrelative:bikeshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA1FA0C0-BF0F-445F-91C1-5A690907080A}|BikeShop\\BikeShop.API.csproj|c:\\users\\data.bilgisayar\\bike-shop\\bikeshopsolution\\bikeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA1FA0C0-BF0F-445F-91C1-5A690907080A}|BikeShop\\BikeShop.API.csproj|solutionrelative:bikeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Data.Bilgisayar\\bike-shop\\BikeShopSolution\\BikeShop.Application\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "BikeShop.Application\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Data.Bilgisayar\\bike-shop\\BikeShopSolution\\BikeShop.Application\\IProductRepository.cs",
+              "RelativeToolTip": "BikeShop.Application\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:03:36.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Data.Bilgisayar\\bike-shop\\BikeShopSolution\\BikeShop\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "BikeShop\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Data.Bilgisayar\\bike-shop\\BikeShopSolution\\BikeShop\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "BikeShop\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvywAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:02:34.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Data.Bilgisayar\\bike-shop\\BikeShopSolution\\BikeShop\\Program.cs",
               "RelativeDocumentMoniker": "BikeShop\\Program.cs",
               "ToolTip": "C:\\Users\\Data.Bilgisayar\\bike-shop\\BikeShopSolution\\BikeShop\\Program.cs",
               "RelativeToolTip": "BikeShop\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-13T20:41:34.937Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\Data.Bilgisayar\\bike-shop\\BikeShopSolution\\BikeShop.Infrastructure\\ProductRepository.cs",
               "RelativeDocumentMoniker": "BikeShop.Infrastructure\\ProductRepository.cs",
               "ToolTip": "C:\\Users\\Data.Bilgisayar\\bike-shop\\BikeShopSolution\\BikeShop.Infrastructure\\ProductRepository.cs",
               "RelativeToolTip": "BikeShop.Infrastructure\\ProductRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAIwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-13T20:08:13.27Z"
+              "WhenOpened": "2025-07-13T20:08:13.27Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -32,6 +32,17 @@ public class ProductController : ControllerBase
         else
             return NotFound(new { message = "Ürün bulunamadı." });
     }
+    [HttpPut("{id}")]
+    public IActionResult UpdateProduct(int id, [FromBody] Product updatedProduct)
+    {
+        var success = _productRepository.UpdateProduct(id, updatedProduct);
+
+        if (!success)
+            return NotFound(new { message = "Ürün bulunamadı." });
+
+        return Ok(new { message = "Ürün güncellendi.", data = updatedProduct });
+    }
+
 
 }
 

@@ -50,5 +50,20 @@ namespace BikeShop.Infrastructure
             Console.WriteLine($"Ürün silindi: {product.Name}");
             return true;
         }
+        public bool UpdateProduct(int id, Product product)
+        {
+            var existingProduct = _products.FirstOrDefault(p => p.Id == id);
+            if (existingProduct == null)
+                return false;
+
+            existingProduct.Name = product.Name;
+            existingProduct.Category = product.Category;
+            existingProduct.Price = product.Price;
+            existingProduct.Stock = product.Stock;
+
+            Console.WriteLine($"Ürün güncellendi: {existingProduct.Name}");
+            return true;
+        }
+
     }
 }
